@@ -1,7 +1,7 @@
 # Inshackle v1.0
 # Instagram bot,auto follower
 ## Author: https://github.com/sayantanpatra68
-## IG: instagram.com/_._.bruh_ka_swag._._
+## IG: https://www.instagram.com/_._.bruh_ka_swag._._/
 
 ### Don't copy this code without give me the credits, nerd! Please read the License 
 
