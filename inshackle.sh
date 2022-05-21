@@ -1,7 +1,7 @@
 #!/bin/bash
 # Inshackle v1.0
 # made by Sayantan Patra 
-# instagram account (_._.bruh_ka_swag._._)
+# instagram account (the_eager_wolverine)
 # don't forget to follow me...
 
 string4=$(openssl rand -hex 32 | cut -c 1-4)
@@ -30,7 +30,7 @@ printf " \e[1;31mM  M\e[0m\e[1;77m dP    dP \`88888P\' \e[0m\e[1;93mdP    dP \`8
 printf " \e[1;31mMMMM\e[0m                                                                    \n"
 printf "\n"
 
-printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m made by SAYANTAN PATRA (FOLLOW me on Instagram >> _._.bruh_ka_swag._._)\e[0m\n"
+printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m made by SAYANTAN PATRA (FOLLOW me on Instagram >> the_eager_wolverine)\e[0m\n"
 }
 
 
