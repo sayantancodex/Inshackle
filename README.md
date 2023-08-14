@@ -1,6 +1,6 @@
 # Inshackle v1.0
 # Instagram bot,auto follower
-## Author: https://github.com/sayantanpatra68
+## Author: https://github.com/sayantancodex
 ## IG: https://www.instagram.com/the_eager_wolverine/
 
 ### Don't copy this code without give me the credits, nerd! Please read the License 
